@@ -1,0 +1,51 @@
+/* Apply style to whole page */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main heading */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Paragraph style */
+p {
+    font-size: 18px;
+    color: #333;
+    padding: 10px;
+}
+
+/* List style */
+ul {
+    background-color: white;
+    width: 200px;
+    padding: 15px;
+    border: 1px solid gray;
+}
+
+/* List items */
+li {
+    color: green;
+    margin-bottom: 5px;
+}
+
+/* Link style */
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+/* Image style */
+img {
+    border-radius: 10px;
+    border: 2px solid black;
+}
